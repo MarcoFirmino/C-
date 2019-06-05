@@ -1,0 +1,11 @@
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\bin\Debug\netcoreapp2.1\ExerciciosDouglas.deps.json
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\bin\Debug\netcoreapp2.1\ExerciciosDouglas.runtimeconfig.json
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\bin\Debug\netcoreapp2.1\ExerciciosDouglas.runtimeconfig.dev.json
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\bin\Debug\netcoreapp2.1\ExerciciosDouglas.dll
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\bin\Debug\netcoreapp2.1\ExerciciosDouglas.pdb
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.csprojAssemblyReference.cache
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.csproj.CoreCompileInputs.cache
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.AssemblyInfoInputs.cache
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.AssemblyInfo.cs
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.dll
+C:\Projetos\ExercíciosDouglas\ExercíciosDouglas\obj\Debug\netcoreapp2.1\ExerciciosDouglas.pdb
