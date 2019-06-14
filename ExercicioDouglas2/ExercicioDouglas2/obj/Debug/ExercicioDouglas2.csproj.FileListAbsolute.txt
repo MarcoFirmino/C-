@@ -1,0 +1,11 @@
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\bin\Debug\ExercicioDouglas2.exe.config
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\bin\Debug\ExercicioDouglas2.exe
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\bin\Debug\ExercicioDouglas2.pdb
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.csprojAssemblyReference.cache
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.Form1.resources
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.Properties.Resources.resources
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.csproj.GenerateResource.cache
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.csproj.CoreCompileInputs.cache
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.exe
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.pdb
+C:\Projetos\ExercicioDouglas2\ExercicioDouglas2\obj\Debug\ExercicioDouglas2.Relatorio.resources
